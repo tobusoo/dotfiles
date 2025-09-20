@@ -1,0 +1,37 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.statusBar.visible": false,
+ 
+    "editor.minimap.enabled": false,
+    // "editor.guides.indentation": false,
+
+    // SideBar
+    // "editor.hideCursorInOverviewRuler": true,
+    "editor.overviewRulerBorder": false,
+    "editor.scrollbar.horizontal": "hidden",
+    // "editor.scrollbar.vertical": "hidden",
+    // "color-highlight.markRuler": false,
+
+    "breadcrumbs.enabled": false,
+    // "workbench.tree.renderIndentGuides": "none",
+    "explorer.decorations.colors": false,
+    "editor.renderLineHighlight": "gutter",
+
+    "editor.glyphMargin": false,
+    "editor.showFoldingControls": "never",
+
+    // "window.menuBarVisibility": "toggle",
+    "workbench.layoutControl.type": "menu",
+    "workbench.layoutControl.enabled": false,
+    "window.title": " ",
+
+    "window.commandCenter": false,
+
+    "window.menuBarVisibility": "toggle",
+    "workbench.editor.labelFormat": "default",
+    // "workbench.editor.showIcons": false,
+    // "workbench.editor.showTabs": "single",
+  
+    // "workbench.activityBar.location": "hidden",
+}
